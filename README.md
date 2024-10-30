@@ -17,4 +17,4 @@ Same as Lab1 and Lab2, but you already signup in Github Classroom
 ### Step 2: Uploading Your Work
 
 1. After completing your implementation, you must upload the app files to your repository, please you are recommended to use .gitignore in order not to store the virtual environment directory.
-2. Go back on Canvas and copy and paste the link of your repository in the lab3 assignment and please specify your teammates [link](https://chalmers.instructure.com/courses/31748/assignments/95098)
+2. Go back on Canvas and copy and paste the link of your repository in the lab3 assignment and please specify your lab group number [link](https://chalmers.instructure.com/courses/31748/assignments/95098)
